@@ -1,0 +1,16 @@
+# Java / Maven
+back-end/target/
+*.log
+
+# Flutter / Dart
+font-end/.dart_tool/
+font-end/build/
+font-end/.flutter-plugins
+font-end/.flutter-plugins-dependencies
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
